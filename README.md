@@ -4,4 +4,6 @@ every time the page is refreshed.A visual keyBoard is used which prompts the use
 colors the wrong key-press with red color.  on finishing the code calculates and displays Accuracy, Mistakes, Speed.
 
 # TypingSpeed Website Preview
-<img src = "https://github.com/sanizm/Project_TypingSpeed/blob/master/Video/TouchTyping.gif" width = "100%"/>
+
+https://user-images.githubusercontent.com/75959959/158654954-150ff4f9-ce19-4351-9ce9-3f8c26f2f967.mp4
+
